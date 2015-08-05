@@ -1,2 +1,2 @@
-# phylotree-dev
-A repository for ami-phylotree development
+# phylotree
+A repository for debugging ami-phylo problems
