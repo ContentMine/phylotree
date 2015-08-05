@@ -1,0 +1,1 @@
+In order to replicate, runthis.sh needs to be run from the base ami-plugin directory

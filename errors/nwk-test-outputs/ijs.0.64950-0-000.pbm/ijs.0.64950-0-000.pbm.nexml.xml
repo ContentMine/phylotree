@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Sphingobacterium thalpophilum ATCC 43320T (M58779)</otu>
+  <otu id="otu2">Sphingobacterium faecium DSM 1 1690T (AJ438176)</otu>
+  <otu id="otu3">Pedobacter saltans DSM 12145T (AJ438173)</otu>
+  <otu id="otu4">Sphingobacterium mizutaii ATCC 33299T (M58796)</otu>
+  <otu id="otu5">Sphingobacterium spirit/'vorum ATCC 33861T (M58778)</otu>
+  <otu id="otu6">Sph/ngobacterium daejeonense TR6-O4T (ABZ49372)</otu>
+  <otu id="otu7">Pedobacter africanus DSM 12126T (AJ438171)</otu>
+  <otu id="otu8">Sphingobacterium multivorum IFO 14947T (D14025)</otu>
+  <otu id="otu9">Pedobacter heparinus DSM 2366T (AJ438172)</otu>
+  <otu id="otu10">Sphingobacterium antarcticum BB1Y (AJ576248)</otu>
+  <otu id="otu11">Pedobacter piscium DSM 1 1725T (AJ438174)</otu>
+  <otu id="otu12">Pedobacter cryoconitis DSM 14825T (AJ438170)</otu>
+  <otu id="otu13">‘Pocheonia solf (A8267715)</otu>
+  <otu id="otu14"/>
+  <otu id="otu15"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="67.0" y="309.0"/>
+   <node id="NT1.2" label="NT1.2" x="94.0" y="579.0"/>
+   <node id="NT1.3" x="220.0" y="215.0" label="79"/>
+   <node id="NT1.4" x="257.0" y="144.0" label="59"/>
+   <node id="NT1.5" label="NT1.5" x="324.0" y="92.0"/>
+   <node id="NT1.6" label="NT1.6" x="547.0" y="48.0"/>
+   <node id="NT1.7" label="NT1.7" x="645.0" y="283.0"/>
+   <node id="NT1.8" label="NT1.8" x="648.0" y="668.0"/>
+   <node id="NT1.9" label="NT1.9" x="756.0" y="581.0"/>
+   <node id="NT1.10" label="NT1.10" x="767.0" y="756.0"/>
+   <node id="NT1.11" label="NT1.11" x="803.0" y="77.0" otu="otu1"/>
+   <node id="NT1.12" label="NT1.12" x="803.0" y="136.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="839.0" y="491.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="854.0" y="699.0"/>
+   <node id="NT1.15" label="NT1.15" x="860.0" y="313.0" otu="otu4"/>
+   <node id="NT1.16" label="NT1.16" x="871.0" y="195.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="876.0" y="254.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="900.0" y="550.0" otu="otu7"/>
+   <node id="NT1.19" label="NT1.19" x="909.0" y="401.0"/>
+   <node id="NT1.20" label="NT1.20" x="918.0" y="18.0" otu="otu8"/>
+   <node id="NT1.21" label="NT1.21" x="921.0" y="609.0" otu="otu9"/>
+   <node id="NT1.22" label="NT1.22" x="922.0" y="816.0"/>
+   <node id="NT1.23" label="NT1.23" x="923.0" y="846.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="923.0" y="786.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="930.0" y="669.0" otu="otu12"/>
+   <node id="NT1.26" label="NT1.26" x="987.0" y="432.0" otu="otu13"/>
+   <node id="NT1.27" label="NT1.27" x="992.0" y="728.0" otu="otu14"/>
+   <node id="NT1.28" label="NT1.28" x="993.0" y="372.0" otu="otu15"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>
