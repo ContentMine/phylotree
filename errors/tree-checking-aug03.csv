@@ -1,0 +1,257 @@
+ImageID,Taxa in original image,"Makes treefile / svg? (1=yes, 0=no)",GenBankIDs,Pseudo-GB-IDs,Pseudo/Total %,Tree Assessment (out of 100),Taxon labels missing,Can TreeGraph2 interpret Newick output,Number of OCR errors (raw number of incorrect characters),Notes,Link to Original Image
+64918-0-003,n/a,1,n/a,n/a,n/a,,,1,,2 trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64918-0-003.pbm.png
+64918-0-004,n/a,1,n/a,n/a,n/a,,,1,,3 trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64918-0-004.pbm.png
+64918-0-005,n/a,1,n/a,n/a,n/a,,,0,,2 trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64918-0-005.pbm.png
+64920-0-000,20,1,13,14,70,100,,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64920-0-000.pbm.png
+64921-0-000,21,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64921-0-000.pbm.png
+64922-0-000,12,1,0,0,0,100,,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64922-0-000.pbm.png
+64925-0-001,25,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64925-0-001.pbm.png
+64926-0-000,14,1,12,12,85.71428571,100,2,1,14,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64926-0-000.pbm.png
+64927-0-000,9,1,7,9,100,100,,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64927-0-000.pbm.png
+64928-0-000,16,1,12,12,75,100,4,1,10,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64928-0-000.pbm.png
+64932-0-003,11,1,3,3,27.27272727,n/a,,1,10,subtree only,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64932-0-003.pbm.png
+64933-0-001,8,1,7,7,87.5,90,(+1),1,0,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64933-0-001.pbm.png
+64934-0-001,28,1,21,23,82.14285714,100,5,1,14,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64934-0-001.pbm.png
+64935-0-000,40,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64935-0-000.pbm.png
+64936-0-000,23,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64936-0-000.pbm.png
+64938-0-000,31,1,0,0,0,100,7,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64938-0-000.pbm.png
+64940-0-001,45,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64940-0-001.pbm.png
+64942-0-001,9,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64942-0-001.pbm.png
+64945-0-001,24,1,6,6,25,100,18,1,23,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64945-0-001.pbm.png
+64947-0-000,19,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64947-0-000.pbm.png
+64948-0-000,7,1,4,4,57.14285714,50,3,1,1,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64948-0-000.pbm.png
+64950-0-000,14,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64950-0-000.pbm.png
+64951-0-000,28,1,26,27,96.42857143,100,1,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64951-0-000.pbm.png
+64952-0-000,24,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64952-0-000.pbm.png
+64953-0-000,28,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64953-0-000.pbm.png
+64955-0-001,29,1,,29,100,100,,1,27,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64955-0-001.pbm.png
+64955-0-002,46,0,,,0,no tree,,n/a,,2 trees on image,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64955-0-002.pbm.png
+64956-0-000,29,1,20,21,72.4137931,100,3,1,3,3 taxon labels for one flat node,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64956-0-000.pbm.png
+64957-0-000,28,1,0,0,0,100,6,0,,4 taxon labels on one flat node,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64957-0-000.pbm.png
+64958-0-000,29,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64958-0-000.pbm.png
+64959-0-000,28,1,27,28,100,100,,1,14,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64959-0-000.pbm.png
+64960-0-000,34,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64960-0-000.pbm.png
+64962-0-000,14,1,7,7,50,20,,1,7,partial subtree,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64962-0-000.pbm.png
+64963-0-000,27,1,0,0,0,50,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64963-0-000.pbm.png
+64964-0-000,17,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64964-0-000.pbm.png
+64965-0-000,15,1,14,14,93.33333333,100,1,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64965-0-000.pbm.png
+64966-0-000,13,1,13,13,100,100,,1,11,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64966-0-000.pbm.png
+64967-0-000,17,1,12,12,70.58823529,100,5,1,12,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64967-0-000.pbm.png
+64968-0-001,13,1,13,13,100,100,,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64968-0-001.pbm.png
+64969-0-000,28,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64969-0-000.pbm.png
+64969-0-001,102,0,,,0,no tree,,n/a,,4 trees in image,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64969-0-001.pbm.png
+64970-0-001,31,1,0,0,0,100,11,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64970-0-001.pbm.png
+64971-0-001,25,1,20,20,80,100,5,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64971-0-001.pbm.png
+64973-0-001,26,1,5,5,19.23076923,20,,1,6,partial subtree,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64973-0-001.pbm.png
+64974-0-000,17,1,0,0,0,80,14,0,,one wide flat node,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64974-0-000.pbm.png
+64975-0-000,22,1,18,18,81.81818182,100,4,1,14,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64975-0-000.pbm.png
+64976-0-001,41,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64976-0-001.pbm.png
+64977-0-000,10,1,1,1,10,100,9,1,6,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64977-0-000.pbm.png
+64978-0-000,16,1,11,11,68.75,100,4,1,17,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64978-0-000.pbm.png
+64979-0-000,31,1,27,28,90.32258065,100,2,1,11,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64979-0-000.pbm.png
+64980-0-001,39,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64980-0-001.pbm.png
+64981-0-001,17,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64981-0-001.pbm.png
+64985-0-000,17,1,0,0,0,90,,0,,polygon tips,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64985-0-000.pbm.png
+64986-0-000,20,1,18,18,90,100,2,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64986-0-000.pbm.png
+64993-0-000,17,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64993-0-000.pbm.png
+64994-0-001,11,1,1,1,9.090909091,n/a,,1,1,partial subtree only,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64994-0-001.pbm.png
+64995-0-000,11,1,7,8,72.72727273,100,2,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64995-0-000.pbm.png
+64996-0-000,18,1,0,0,0,100,2,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64996-0-000.pbm.png
+64999-0-000,25,1,0,0,0,100,all,1,32,rotated (node at bottom),https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.64999-0-000.pbm.png
+65000-0-000,14,0,,,0,no tree,,n/a,,unrooted trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65000-0-000.ppm.png
+65001-0-001,19,1,6,6,31.57894737,100,13,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65001-0-001.pbm.png
+65003-0-000,33,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65003-0-000.pbm.png
+65004-0-000,16,1,13,14,87.5,100,2,1,12,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65004-0-000.pbm.png
+65007-0-000,23,1,0,0,0,95,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65007-0-000.pbm.png
+65008-0-000,13,1,0,0,0,90,6,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65008-0-000.pbm.png
+65010-0-000,31,1,0,0,0,100,12,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65010-0-000.pbm.png
+65011-0-000,25,1,14,15,60,100,9,1,73,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65011-0-000.pbm.png
+65013-0-000,74,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-000.pbm.png
+65013-0-001,83,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-001.pbm.png
+65013-0-002,74,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-002.pbm.png
+65013-0-003,77,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-003.pbm.png
+65013-0-004,71,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-004.pbm.png
+65013-0-005,57,0,,,0,no tree,,n/a,,text too small?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65013-0-005.pbm.png
+65014-0-000,26,1,17,18,69.23076923,100,8,1,6,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65014-0-000.pbm.png
+65015-0-000,5,1,0,0,0,85,6,1,1,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65015-0-000.pbm.png
+65016-0-000,53,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65016-0-000.pbm.png
+65017-0-001,17,1,14,14,82.35294118,100,3,1,0,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65017-0-001.pbm.png
+65018-0-000,19,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65018-0-000.pbm.png
+65019-0-000,12,1,4,4,33.33333333,100,8,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65019-0-000.pbm.png
+65020-0-000,26,1,21,21,80.76923077,100,5,1,13,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65020-0-000.pbm.png
+65021-0-000,31,1,0,0,0,90,23,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65021-0-000.pbm.png
+65022-0-000,24,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65022-0-000.pbm.png
+65023-0-000,17,1,0,0,0,100,,0,,successfully interprets despite filled black circles at nodes,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65023-0-000.pbm.png
+65025-0-001,31,1,0,0,0,85,all missing,1,16,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65025-0-001.pbm.png
+65026-0-000,15,1,0,0,0,85,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65026-0-000.pbm.png
+65027-0-001,17,1,12,13,76.47058824,100,4,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65027-0-001.pbm.png
+65028-0-000,16,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65028-0-000.pbm.png
+65030-0-001,17,1,16,16,94.11764706,100,1,1,12,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65030-0-001.pbm.png
+65031-0-000,6,1,5,5,83.33333333,100,,1,0,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65031-0-000.pbm.png
+65032-0-000,27,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65032-0-000.pbm.png
+65033-0-000,21,1,21,21,100,100,,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65033-0-000.pbm.png
+65034-0-001,27,1,21,21,77.77777778,100,4,1,9,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65034-0-001.pbm.png
+65035-0-000,20,1,16,16,80,100,3,1,10,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65035-0-000.pbm.png
+65036-0-000,16,1,15,16,100,100,,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65036-0-000.pbm.png
+65037-0-000,42,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65037-0-000.pbm.png
+65038-0-000,17,1,6,9,52.94117647,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65038-0-000.pbm.png
+65038-0-001,17,1,0,0,0,100,8,1,11,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65038-0-001.pbm.png
+65038-0-002,17,1,,,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65038-0-002.pbm.png
+65039-0-000,21,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65039-0-000.pbm.png
+65040-0-000,11,1,11,11,100,100,,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65040-0-000.pbm.png
+65041-0-000,34,0,,,0,no tree,,n/a,,underlined tip labels. Very odd,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65041-0-000.pbm.png
+65041-0-001,75,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65041-0-001.pbm.png
+65041-0-002,48,1,21,22,45.83333333,80,2,1,20,"two trees in image, got most of the top tree",https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65041-0-002.pbm.png
+65042-0-000,7,1,0,0,0,100,3,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65042-0-000.pbm.png
+65044-0-000,12,1,0,0,0,95,10,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65044-0-000.pbm.png
+65044-0-001,9,1,0,0,0,100,8,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65044-0-001.pbm.png
+65045-0-001,15,1,0,0,0,100,13,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65045-0-001.pbm.png
+65046-0-001,30,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65046-0-001.pbm.png
+65047-0-000,27,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65047-0-000.pbm.png
+65048-0-000,15,1,10,10,66.66666667,80,5,1,2,missing a 5 taxon clade,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65048-0-000.pbm.png
+65049-0-001,14,1,11,11,78.57142857,100,,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65049-0-001.pbm.png
+65049-0-002,12,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65049-0-002.pbm.png
+65050-0-000,15,1,0,0,0,90,,0,,one incorrect tip. An odd occurence,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65050-0-000.pbm.png
+65053-0-000,15,1,13,13,86.66666667,100,1,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65053-0-000.pbm.png
+65054-0-001,21,1,16,16,76.19047619,100,5,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65054-0-001.pbm.png
+65056-0-000,5,1,4,4,80,100,,1,1,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65056-0-000.pbm.png
+65057-0-001,12,1,0,0,0,100,9,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65057-0-001.pbm.png
+65059-0-000,64,0,,,0,no tree,,n/a,,too large a tree?,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65059-0-000.pbm.png
+65060-0-000,23,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65060-0-000.pbm.png
+65061-0-001,21,1,13,13,61.9047619,100,8,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65061-0-001.pbm.png
+65061-0-002,41,1,34,34,82.92682927,90,7,1,11,one large flat tip,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65061-0-002.pbm.png
+65061-0-003,30,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65061-0-003.pbm.png
+65061-0-004,38,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65061-0-004.pbm.png
+65061-0-005,20,1,6,16,80,100,10,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65061-0-005.pbm.png
+65063-0-000,18,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65063-0-000.pbm.png
+65064-0-000,8,1,2,2,25,20,6,1,2,subtree twig,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65064-0-000.pbm.png
+65065-0-000,12,1,12,12,100,100,,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65065-0-000.pbm.png
+65066-0-000,17,1,11,11,64.70588235,100,5,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65066-0-000.pbm.png
+65067-0-001,29,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65067-0-001.pbm.png
+65068-0-001,18,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65068-0-001.pbm.png
+65069-0-000,6,1,6,6,100,100,,1,1,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65069-0-000.pbm.png
+65070-0-001,23,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65070-0-001.pbm.png
+65071-0-000,17,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65071-0-000.pbm.png
+65072-0-000,20,1,19,20,100,100,,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65072-0-000.pbm.png
+65073-0-000,28,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65073-0-000.pbm.png
+65074-0-000,12,1,0,0,0,100,,0,,gets 1 of the two trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65074-0-000.pbm.png
+65075-0-000,37,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65075-0-000.pbm.png
+65076-0-000,17,1,0,0,0,100,4,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65076-0-000.pbm.png
+65077-0-000,21,1,21,21,100,100,,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65077-0-000.pbm.png
+65078-0-000,30,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65078-0-000.pbm.png
+65079-0-000,28,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65079-0-000.pbm.png
+65080-0-000,22,1,0,0,0,100,2,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65080-0-000.pbm.png
+65081-0-000,51,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65081-0-000.pbm.png
+65084-0-000,7,1,5,5,71.42857143,100,1,1,6,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65084-0-000.pbm.png
+65085-0-000,15,1,8,8,53.33333333,100,7,1,1,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65085-0-000.pbm.png
+65086-0-000,18,1,13,13,72.22222222,100,4,1,13,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65086-0-000.pbm.png
+65087-0-000,14,1,4,5,35.71428571,100,9,1,18,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65087-0-000.pbm.png
+65088-0-000,25,1,21,22,88,100,2,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65088-0-000.pbm.png
+65090-0-001,27,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65090-0-001.pbm.png
+65091-0-000,25,1,24,25,100,100,,1,26,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65091-0-000.pbm.png
+65092-0-000,23,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65092-0-000.pbm.png
+65093-0-000,16,1,7,7,43.75,100,7,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65093-0-000.pbm.png
+65093-0-001,16,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65093-0-001.pbm.png
+65095-0-000,20,1,17,17,85,90,1,1,2,1 missed off root taxon,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65095-0-000.pbm.png
+65096-0-001,12,1,7,7,58.33333333,100,5,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65096-0-001.pbm.png
+65096-0-002,12,1,6,6,50,100,6,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65096-0-002.pbm.png
+65098-0-001,38,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65098-0-001.pbm.png
+65099-0-000,18,1,0,0,0,90,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65099-0-000.pbm.png
+65100-0-001,20,1,14,14,70,100,6,1,17,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65100-0-001.pbm.png
+65101-0-001,26,1,0,0,0,20,nearly all missing,0,,subtree twig,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65101-0-001.pbm.png
+65102-0-001,39,1,23,23,58.97435897,100,11,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65102-0-001.pbm.png
+65103-0-000,22,1,12,15,68.18181818,100,7,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65103-0-000.pbm.png
+65104-0-000,24,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65104-0-000.pbm.png
+65105-0-000,17,1,0,0,0,100,all missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65105-0-000.pbm.png
+65108-0-000,10,1,6,6,60,90,3,1,20,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65108-0-000.pbm.png
+65109-0-000,20,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65109-0-000.pbm.png
+65109-0-001,30,1,22,22,73.33333333,100,5,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65109-0-001.pbm.png
+65110-0-000,21,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65110-0-000.pbm.png
+65111-0-000,36,1,32,32,88.88888889,100,4,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65111-0-000.pbm.png
+65112-0-001,34,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65112-0-001.pbm.png
+65112-0-002,16,1,11,13,81.25,100,1,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65112-0-002.pbm.png
+65113-0-000,18,1,16,16,88.88888889,100,2,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65113-0-000.pbm.png
+65115-0-000,24,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65115-0-000.pbm.png
+65117-0-000,13,1,7,7,53.84615385,100,6,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65117-0-000.pbm.png
+65118-0-000,29,1,29,29,100,100,,1,30,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65118-0-000.pbm.png
+65120-0-000,11,1,10,10,90.90909091,100,1,1,10,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65120-0-000.pbm.png
+65121-0-000,13,1,8,9,69.23076923,100,4,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65121-0-000.pbm.png
+65123-0-000,59,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65123-0-000.pbm.png
+65124-0-000,14,1,9,9,64.28571429,100,6,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65124-0-000.pbm.png
+65127-0-000,22,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65127-0-000.pbm.png
+65128-0-001,25,1,0,0,0,100,12,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65128-0-001.pbm.png
+65129-0-000,17,1,0,0,0,90,all missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65129-0-000.pbm.png
+65129-0-001,40,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65129-0-001.pbm.png
+65130-0-000,25,1,22,22,88,100,3,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65130-0-000.pbm.png
+65133-0-000,28,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65133-0-000.pbm.png
+65133-0-001,24,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65133-0-001.pbm.png
+65133-0-002,10,1,8,8,80,100,,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65133-0-002.pbm.png
+65133-0-003,22,1,0,0,0,100,3,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65133-0-003.pbm.png
+65134-0-000,17,1,5,6,35.29411765,60,half missing,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65134-0-000.pbm.png
+65135-0-000,17,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65135-0-000.pbm.png
+65136-0-000,19,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65136-0-000.pbm.png
+65137-0-001,17,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65137-0-001.pbm.png
+65138-0-000,22,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65138-0-000.pbm.png
+65139-0-000,22,1,11,12,54.54545455,100,10,1,6,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65139-0-000.pbm.png
+65141-0-000,11,1,0,0,0,100,all but one missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65141-0-000.pbm.png
+65142-0-000,38,1,21,25,65.78947368,100,13,1,9,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65142-0-000.pbm.png
+65145-0-001,19,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65145-0-001.pbm.png
+65146-0-000,21,1,0,0,0,100,2,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65146-0-000.pbm.png
+65149-0-001,27,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65149-0-001.pbm.png
+65150-0-000,21,1,18,18,85.71428571,100,1,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65150-0-000.pbm.png
+65152-0-000,30,1,0,0,0,100,6,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65152-0-000.pbm.png
+65152-0-001,17,1,0,0,0,100,7,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65152-0-001.pbm.png
+65152-0-002,29,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65152-0-002.pbm.png
+65153-0-000,17,1,1,2,11.76470588,100,all but one missin,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65153-0-000.pbm.png
+65154-0-000,38,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65154-0-000.pbm.png
+65156-0-000,21,1,8,8,38.0952381,100,11,1,18,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65156-0-000.pbm.png
+65157-0-007,23,1,19,20,86.95652174,100,2,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65157-0-007.pbm.png
+65158-0-000,48,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65158-0-000.pbm.png
+65160-0-000,13,1,8,11,84.61538462,100,1,1,2,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65160-0-000.pbm.png
+65162-0-000,21,1,2,2,9.523809524,20,all but two missing,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65162-0-000.pbm.png
+65163-0-000,23,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65163-0-000.pbm.png
+65165-0-000,15,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65165-0-000.pbm.png
+65166-0-000,17,1,10,10,58.82352941,100,7,1,5,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65166-0-000.pbm.png
+65166-0-001,5,1,2,2,40,100,4,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65166-0-001.pbm.png
+65167-0-000,12,1,10,10,83.33333333,100,2,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65167-0-000.pbm.png
+65168-0-001,26,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65168-0-001.pbm.png
+65169-0-000,19,1,0,0,0,100,all but two missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65169-0-000.pbm.png
+65172-0-000,13,1,0,0,0,100,5,1,10,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65172-0-000.pbm.png
+65173-0-000,38,1,33,33,86.84210526,100,7,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65173-0-000.pbm.png
+65174-0-000,58,0,,,0,no tree,,n/a,,3 trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65174-0-000.pbm.png
+65175-0-000,46,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65175-0-000.pbm.png
+65176-0-000,17,1,0,0,0,100,5,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65176-0-000.pbm.png
+65177-0-000,17,1,14,14,82.35294118,100,2,1,7,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65177-0-000.pbm.png
+65178-0-000,17,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65178-0-000.pbm.png
+65179-0-000,13,1,0,0,0,100,1,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65179-0-000.pbm.png
+65181-0-000,17,1,0,0,0,100,all missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65181-0-000.pbm.png
+65182-0-001,16,1,0,0,0,100,all but 3 missing,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65182-0-001.pbm.png
+65183-0-000,18,1,8,8,44.44444444,100,9,1,3,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65183-0-000.pbm.png
+65184-0-000,15,1,13,13,86.66666667,100,1,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65184-0-000.pbm.png
+65185-0-000,12,1,9,9,75,100,3,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65185-0-000.pbm.png
+65186-0-000,14,1,0,0,0,100,all missing,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65186-0-000.pbm.png
+65187-0-000,21,1,19,21,100,100,,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65187-0-000.pbm.png
+65188-0-000,15,1,15,15,100,100,,1,12,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65188-0-000.pbm.png
+65191-0-000,46,1,0,0,0,100,1,0,,two trees,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65191-0-000.pbm.png
+65192-0-000,15,1,1,1,6.666666667,5,missing all but one,1,7,"one twig
+",https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65192-0-000.pbm.png
+65193-0-000,15,1,15,15,100,100,,1,10,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65193-0-000.pbm.png
+65194-0-001,14,1,0,0,0,100,missing all but three,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65194-0-001.pbm.png
+65197-0-000,22,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65197-0-000.pbm.png
+65199-0-001,25,1,20,20,80,100,5,1,19,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65199-0-001.pbm.png
+65200-0-001,54,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65200-0-001.pbm.png
+65202-0-000,27,1,18,19,70.37037037,100,7,1,6,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65202-0-000.pbm.png
+65203-0-001,17,1,15,15,88.23529412,100,2,1,4,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65203-0-001.pbm.png
+65204-0-000,19,1,15,18,94.73684211,100,1,1,8,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65204-0-000.pbm.png
+65206-0-000,28,1,0,0,0,100,20,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65206-0-000.pbm.png
+65208-0-000,31,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65208-0-000.pbm.png
+65210-0-001,15,1,0,0,0,100,,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65210-0-001.pbm.png
+65211-0-001,43,1,0,0,0,100,3,0,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65211-0-001.pbm.png
+65212-0-000,18,1,17,18,100,100,,1,11,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65212-0-000.pbm.png
+65213-0-000,36,1,19,19,52.77777778,100,16,1,24,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65213-0-000.pbm.png
+65217-0-000,30,0,,,0,no tree,,n/a,,,https://github.com/rossmounce/temporary/blob/master/batch3all/images/ijs.0.65217-0-000.pbm.png
+,,,,,,,,,,,
+,,,,,,,,,133,,
+,,,,,,,,,117,,
+,,,,,,,,,,,
+,,,,,,,,,8.47008547,,
