@@ -19,6 +19,9 @@ while read i ; do timeout 60s mvn exec:java  -Dexec.mainClass='org.xmlcml.ami2.p
 
 ## specification of files, errors, protocols
 
+Figure images were obtained from IJSEM articles from 2003 to 2014 (inclusive).
+This includes 4705 articles. 4341 figures containing a dendrogram were extracted from this set of articles.
+
 ## input and output files (large)
 
 ## errors 
