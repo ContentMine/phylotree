@@ -6,7 +6,7 @@ Main headings are:
 
 ## description of the workflow
 
-* Scrape figure image content from IJSEM journal website (note: was originall performed on older Highwire platform, not new Ingenta platform)
+* Scrape figure image content from [IJSEM journal website](http://ijs.sgmjournals.org/content/journal/ijsem) (note: was originall performed on older Highwire platform, not new Ingenta platform)
 * Manually filter out non-phylogeny containing figures using [Shotwell](https://wiki.gnome.org/Apps/Shotwell). 
 * Pass each of these figures to our software for analysis with this bash while loop:
 ```
