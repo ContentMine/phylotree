@@ -1,16 +1,20 @@
 # phylotree
 
-`ami-phylo` analyses images and diagrams to extract phylogenetic trees. This is a complete repository of the analysis of ca 4500 files from IJSEM, carried out as Open Notebook Science. The intention is that everything in the analysis is either accessible here or should be Open and linked from here.
+`ami-phylo` analyses images and diagrams to extract phylogenetic trees. This is a complete repository of the analysis of ca 4300 figure image files from the IJSEM journal, carried out as Open Notebook Science. The intention is that everything in the analysis is either accessible here or should be Open and linked from here.
 
 Main headings are:
 
 ## description of the workflow
 
-* Scrape figure image content from [IJSEM journal website](http://ijs.sgmjournals.org/content/journal/ijsem) (note: was originall performed on older Highwire platform, not new Ingenta platform)
+* Scrape figure image content from [IJSEM journal website](http://ijs.sgmjournals.org/content/journal/ijsem) (note: was originally performed on older Highwire platform, not new Ingenta platform)
 * Manually filter out non-phylogeny containing figures using [Shotwell](https://wiki.gnome.org/Apps/Shotwell). 
-* Pass each of these figures to our software for analysis with this bash while loop:
+* Pass each of these figures to our software for analysis with this bash loop:
 ```
-while read i ; do timeout 60s mvn exec:java  -Dexec.mainClass='org.xmlcml.ami2.plugins.phylotree.RunPhylo'  -Dexec.args=''"$i"' ./all-output/'"$i"'' -e -X | tee $i.log ; done <list-of-input-images.txt
+#!/bin/bash
+while read i ; 
+      do timeout 60s mvn exec:java  -Dexec.mainClass='org.xmlcml.ami2.plugins.phylotree.RunPhylo' \
+      -Dexec.args=''"$i"' ./all-output/'"$i"'' -e -X | tee $i.log ; 
+done <list-of-input-images.txt
 ```
 * check results for OCR errors and Newick structure errors
 * Standardise taxa across different studies
