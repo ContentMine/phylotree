@@ -18,7 +18,7 @@ done <list-of-input-images.txt
 ```
 * check results for OCR errors and Newick structure errors
 * Standardise taxa across different studies
-* Feed cleaned Newick data to [Supertree Toolkit 2](http://bdj.pensoft.net/articles.php?id=1053) to create a supertree matrix
+* Feed cleaned Newick data to [mrpmatrix](https://github.com/smirarab/mrpmatrix) to create a supertree matrix
 * Analyse supertree matrix with [TNT](http://www.cladistics.com/aboutTNT.html)
 
 ## specification of files, errors, protocols
