@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Terrimonas ferrug/nea ATCC 1 3524T (M62798)</otu>
+  <otu id="otu3">F/avisolibacter ginsengisoli Gsoil 6413T (AB267477)</otu>
+  <otu id="otu4">Niabella SO/iJS13-8T (EF592808)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="55.0" y="174.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="60.0" y="113.0"/>
+   <node id="NT1.3" label="NT1.3" x="134.0" y="37.0"/>
+   <node id="NT1.4" label="NT1.4" x="262.0" y="16.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="275.0" y="137.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="351.0" y="57.0" otu="otu4"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.5"/>
+   <edge source="NT1.2" target="NT1.3"/>
+  </tree>
+ </trees>
+</nexml>

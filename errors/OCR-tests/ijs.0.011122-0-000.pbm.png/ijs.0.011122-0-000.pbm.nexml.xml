@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Saccharomonospora halophila DSM 4441 1T (AJ278497)</otu>
+  <otu id="otu2">Prauserella aidingensis YIM 9063GT (Fl444994)</otu>
+  <otu id="otu3"> PrauserelIa alba YIM 90005T (AF435077)</otu>
+  <otu id="otu4">Saccharomonospora Xinjiangensis DSM 44391T (AJ306300)</otu>
+  <otu id="otu5">Prauserella ﬂava YIM soesoT (FJ444993)</otu>
+  <otu id="otu6">Prauserella salsuginis YIM 90625T (Fl444992)</otu>
+  <otu id="otu7">Prauserella sediminis YIM 90694T (FJ444995)</otu>
+  <otu id="otu8">Prauserella halophila YIM 90001T (AF466190)</otu>
+  <otu id="otu9">Saccharomonospora viridis NCIB 9602T (238007)</otu>
+  <otu id="otu10">Pseudonocardia compacta IMSNU 201 1 1T (AJ252825)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="316.0" y="387.0"/>
+   <node id="NT1.2" x="500.0" y="467.0" label="94"/>
+   <node id="NT1.3" x="593.0" y="510.0" label="83"/>
+   <node id="NT1.4" x="787.0" y="249.0" label="99"/>
+   <node id="NT1.5" label="NT1.5" x="792.0" y="193.0"/>
+   <node id="NT1.6" label="NT1.6" x="817.0" y="423.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="847.0" y="248.0" otu="otu2"/>
+   <node id="NT1.8" x="878.0" y="138.0" label="98"/>
+   <node id="NT1.9" label="NT1.9" x="924.0" y="189.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="929.0" y="481.0" otu="otu4"/>
+   <node id="NT1.11" x="939.0" y="87.0" label="100"/>
+   <node id="NT1.12" label="NT1.12" x="944.0" y="131.0" otu="otu5"/>
+   <node id="NT1.13" x="951.0" y="44.0" label="67"/>
+   <node id="NT1.14" label="NT1.14" x="956.0" y="14.0" otu="otu6"/>
+   <node id="NT1.15" label="NT1.15" x="964.0" y="72.0" otu="otu7"/>
+   <node id="NT1.16" label="NT1.16" x="1003.0" y="307.0" otu="otu8"/>
+   <node id="NT1.17" label="NT1.17" x="1045.0" y="540.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="1045.0" y="599.0" otu="otu10"/>
+   <node id="NT1.19" label="NT1.19" x="7.0" y="493.0" root="true"/>
+   <edge source="NT1.13" target="NT1.14"/>
+   <edge source="NT1.13" target="NT1.15"/>
+   <edge source="NT1.11" target="NT1.12"/>
+   <edge source="NT1.8" target="NT1.9"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.4" target="NT1.16"/>
+   <edge source="NT1.2" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.10"/>
+   <edge source="NT1.3" target="NT1.17"/>
+   <edge source="NT1.11" target="NT1.13"/>
+   <edge source="NT1.5" target="NT1.8"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.1" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.19" target="NT1.18"/>
+   <edge source="NT1.19" target="NT1.1"/>
+   <edge source="NT1.8" target="NT1.11"/>
+  </tree>
+ </trees>
+</nexml>

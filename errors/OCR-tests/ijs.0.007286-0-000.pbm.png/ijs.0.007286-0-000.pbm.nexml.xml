@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Arcobacier skirrowi CCUG 10374T (L14625)</otu>
+  <otu id="otu3">Aroobacter bulz/eri ATCC 49616T (AY621116)</otu>
+  <otu id="otu4">Helicobaoter pylori ATCC 43504T (U01330)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="1.0" y="817.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="180.0" y="971.0"/>
+   <node id="NT1.3" x="642.0" y="1001.0" label="100"/>
+   <node id="NT1.4" label="NT1.4" x="755.0" y="988.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="775.0" y="1018.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="795.0" y="928.0" otu="otu4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.2" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.3"/>
+  </tree>
+ </trees>
+</nexml>

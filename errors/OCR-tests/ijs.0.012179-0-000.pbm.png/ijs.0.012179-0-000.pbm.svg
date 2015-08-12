@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="11.0" cy="250.0" r="1.0"/>
+    <text stroke="none" x="11.0" y="250.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="34.0" cy="199.0" r="1.0"/>
+    <text stroke="none" x="34.0" y="199.0" font-size="20.0" font-family="helvetica">84</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="67.0" cy="438.0" r="1.0"/>
+    <text stroke="none" x="67.0" y="438.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="73.0" cy="154.0" r="1.0"/>
+    <text stroke="none" x="73.0" y="154.0" font-size="20.0" font-family="helvetica">54</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="93.0" cy="300.0" r="1.0"/>
+    <text stroke="none" x="93.0" y="300.0" font-size="20.0" font-family="helvetica">89</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="130.0" cy="519.0" r="1.0"/>
+    <text stroke="none" x="130.0" y="519.0" font-size="20.0" font-family="helvetica">74</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="242.0" cy="104.0" r="1.0"/>
+    <text stroke="none" x="242.0" y="104.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="275.0" cy="61.0" r="1.0"/>
+    <text stroke="none" x="275.0" y="61.0" font-size="20.0" font-family="helvetica">68</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="298.0" cy="584.0" r="1.0"/>
+    <text stroke="none" x="298.0" y="584.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="320.0" cy="32.0" r="1.0"/>
+    <text stroke="none" x="320.0" y="32.0" font-size="20.0" font-family="helvetica">78</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="329.0" cy="146.0" r="1.0"/>
+    <text stroke="none" x="329.0" y="146.0" font-size="20.0" font-family="helvetica">98</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="345.0" cy="618.0" r="1.0"/>
+    <text stroke="none" x="345.0" y="618.0" font-size="10.0" font-family="helvetica">NT1.12</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="365.0" cy="243.0" r="1.0"/>
+    <text stroke="none" x="365.0" y="243.0" font-size="20.0" font-family="helvetica">P. rhizosphaerae CECAF’OBT (AY751 754)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="370.0" cy="166.0" r="1.0"/>
+    <text stroke="none" x="370.0" y="166.0" font-size="20.0" font-family="helvetica"> P. xylanilyticus X|L14T (AY427832)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="375.0" cy="455.0" r="1.0"/>
+    <text stroke="none" x="375.0" y="455.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="378.0" cy="51.0" r="1.0"/>
+    <text stroke="none" x="378.0" y="51.0" font-size="20.0" font-family="helvetica"> P. taichungens/s DSM 19942T(EU179327)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="380.0" cy="320.0" r="1.0"/>
+    <text stroke="none" x="380.0" y="320.0" font-size="20.0" font-family="helvetica">P. campinasensis 324T (AF021924)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="393.0" cy="417.0" r="1.0"/>
+    <text stroke="none" x="393.0" y="417.0" font-size="20.0" font-family="helvetica">97</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="397.0" cy="205.0" r="1.0"/>
+    <text stroke="none" x="397.0" y="205.0" font-size="20.0" font-family="helvetica">P. panaoisoli Gsoil 141 1T (ABQ45384)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="400.0" cy="358.0" r="1.0"/>
+    <text stroke="none" x="400.0" y="358.0" font-size="20.0" font-family="helvetica">P. woosongensis YB-45T (AY847463)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="402.0" cy="127.0" r="1.0"/>
+    <text stroke="none" x="402.0" y="127.0" font-size="20.0" font-family="helvetica"> P. illlnoisensis NRRL NRS—1365T (D85397)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="403.0" cy="396.0" r="1.0"/>
+    <text stroke="none" x="403.0" y="396.0" font-size="20.0" font-family="helvetica">P. hunanensis FeL05T (EU741036)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="404.0" cy="492.0" r="1.0"/>
+    <text stroke="none" x="404.0" y="492.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="408.0" cy="647.0" r="1.0"/>
+    <text stroke="none" x="408.0" y="647.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="409.0" cy="627.0" r="1.0"/>
+    <text stroke="none" x="409.0" y="627.0" font-size="20.0" font-family="helvetica"> P. jam/Iae DSM 13815T(AJ271157)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="413.0" cy="513.0" r="1.0"/>
+    <text stroke="none" x="413.0" y="513.0" font-size="20.0" font-family="helvetica">P. hunanensis Fek19 (EU741029)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="416.0" cy="473.0" r="1.0"/>
+    <text stroke="none" x="416.0" y="473.0" font-size="20.0" font-family="helvetica">P. hunanensis FeL11 (EU741039)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="417.0" cy="281.0" r="1.0"/>
+    <text stroke="none" x="417.0" y="281.0" font-size="20.0" font-family="helvetica">P. glucanolyticus DSM 5162T (D78470)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="419.0" cy="550.0" r="1.0"/>
+    <text stroke="none" x="419.0" y="550.0" font-size="20.0" font-family="helvetica">P. kribbensis AM49T (AF891 1 23)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="426.0" cy="666.0" r="1.0"/>
+    <text stroke="none" x="426.0" y="666.0" font-size="20.0" font-family="helvetica">P. polymyxa DSM 36&gt;T (AJ320493)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="431.0" cy="436.0" r="1.0"/>
+    <text stroke="none" x="431.0" y="436.0" font-size="20.0" font-family="helvetica">P. hunanensis Fek21 (EU741031)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="432.0" cy="90.0" r="1.0"/>
+    <text stroke="none" x="432.0" y="90.0" font-size="20.0" font-family="helvetica">P. amylolyticus NRRL NRS-QQOT (D85396)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="435.0" cy="13.0" r="1.0"/>
+    <text stroke="none" x="435.0" y="13.0" font-size="20.0" font-family="helvetica">P. pabuli NCIMB 12781T (xeoeao)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="435.0" cy="589.0" r="1.0"/>
+    <text stroke="none" x="435.0" y="589.0" font-size="20.0" font-family="helvetica">P. terrae AM141T(AF391124)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="5.0" cy="344.0" r="1.0"/>
+    <text stroke="none" x="5.0" y="344.0" font-size="10.0" font-family="helvetica">NT1.35</text>
+   </g>
+   <line stroke="black" x1="378.0" y1="51.0" x2="320.0" y2="32.0" stroke-width="0.5"/>
+   <line stroke="black" x1="435.0" y1="13.0" x2="320.0" y2="32.0" stroke-width="0.5"/>
+   <line stroke="black" x1="432.0" y1="90.0" x2="275.0" y2="61.0" stroke-width="0.5"/>
+   <line stroke="black" x1="370.0" y1="166.0" x2="329.0" y2="146.0" stroke-width="0.5"/>
+   <line stroke="black" x1="402.0" y1="127.0" x2="329.0" y2="146.0" stroke-width="0.5"/>
+   <line stroke="black" x1="397.0" y1="205.0" x2="73.0" y2="154.0" stroke-width="0.5"/>
+   <line stroke="black" x1="365.0" y1="243.0" x2="34.0" y2="199.0" stroke-width="0.5"/>
+   <line stroke="black" x1="380.0" y1="320.0" x2="93.0" y2="300.0" stroke-width="0.5"/>
+   <line stroke="black" x1="417.0" y1="281.0" x2="93.0" y2="300.0" stroke-width="0.5"/>
+   <line stroke="black" x1="400.0" y1="358.0" x2="67.0" y2="438.0" stroke-width="0.5"/>
+   <line stroke="black" x1="419.0" y1="550.0" x2="298.0" y2="584.0" stroke-width="0.5"/>
+   <line stroke="black" x1="403.0" y1="396.0" x2="393.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="413.0" y1="513.0" x2="404.0" y2="492.0" stroke-width="0.5"/>
+   <line stroke="black" x1="416.0" y1="473.0" x2="404.0" y2="492.0" stroke-width="0.5"/>
+   <line stroke="black" x1="409.0" y1="627.0" x2="408.0" y2="647.0" stroke-width="0.5"/>
+   <line stroke="black" x1="431.0" y1="436.0" x2="393.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="435.0" y1="589.0" x2="345.0" y2="618.0" stroke-width="0.5"/>
+   <line stroke="black" x1="426.0" y1="666.0" x2="408.0" y2="647.0" stroke-width="0.5"/>
+   <line stroke="black" x1="320.0" y1="32.0" x2="275.0" y2="61.0" stroke-width="0.5"/>
+   <line stroke="black" x1="275.0" y1="61.0" x2="242.0" y2="104.0" stroke-width="0.5"/>
+   <line stroke="black" x1="242.0" y1="104.0" x2="73.0" y2="154.0" stroke-width="0.5"/>
+   <line stroke="black" x1="242.0" y1="104.0" x2="329.0" y2="146.0" stroke-width="0.5"/>
+   <line stroke="black" x1="73.0" y1="154.0" x2="34.0" y2="199.0" stroke-width="0.5"/>
+   <line stroke="black" x1="34.0" y1="199.0" x2="11.0" y2="250.0" stroke-width="0.5"/>
+   <line stroke="black" x1="11.0" y1="250.0" x2="93.0" y2="300.0" stroke-width="0.5"/>
+   <line stroke="black" x1="67.0" y1="438.0" x2="130.0" y2="519.0" stroke-width="0.5"/>
+   <line stroke="black" x1="130.0" y1="519.0" x2="298.0" y2="584.0" stroke-width="0.5"/>
+   <line stroke="black" x1="130.0" y1="519.0" x2="375.0" y2="455.0" stroke-width="0.5"/>
+   <line stroke="black" x1="298.0" y1="584.0" x2="345.0" y2="618.0" stroke-width="0.5"/>
+   <line stroke="black" x1="345.0" y1="618.0" x2="408.0" y2="647.0" stroke-width="0.5"/>
+   <line stroke="black" x1="375.0" y1="455.0" x2="404.0" y2="492.0" stroke-width="0.5"/>
+   <line stroke="black" x1="375.0" y1="455.0" x2="393.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="5.0" y1="344.0" x2="11.0" y2="250.0" stroke-width="0.5"/>
+   <line stroke="black" x1="5.0" y1="344.0" x2="67.0" y2="438.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

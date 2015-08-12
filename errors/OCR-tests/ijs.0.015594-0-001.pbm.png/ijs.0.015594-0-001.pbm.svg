@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="0.0" cy="544.0" r="1.0"/>
+    <text stroke="none" x="0.0" y="544.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="46.0" cy="544.0" r="1.0"/>
+    <text stroke="none" x="46.0" y="544.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="115.0" cy="465.0" r="1.0"/>
+    <text stroke="none" x="115.0" y="465.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="344.0" cy="372.0" r="1.0"/>
+    <text stroke="none" x="344.0" y="372.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="420.0" cy="260.0" r="1.0"/>
+    <text stroke="none" x="420.0" y="260.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="422.0" cy="554.0" r="1.0"/>
+    <text stroke="none" x="422.0" y="554.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="456.0" cy="139.0" r="1.0"/>
+    <text stroke="none" x="456.0" y="139.0" font-size="20.0" font-family="helvetica">88</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="487.0" cy="378.0" r="1.0"/>
+    <text stroke="none" x="487.0" y="378.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="511.0" cy="412.0" r="1.0"/>
+    <text stroke="none" x="511.0" y="412.0" font-size="10.0" font-family="helvetica">NT1.9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="514.0" cy="73.0" r="1.0"/>
+    <text stroke="none" x="514.0" y="73.0" font-size="10.0" font-family="helvetica">NT1.10</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="573.0" cy="531.0" r="1.0"/>
+    <text stroke="none" x="573.0" y="531.0" font-size="20.0" font-family="helvetica">N. b/ack/ockiae ATCC 700035T (GO496126)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="579.0" cy="342.0" r="1.0"/>
+    <text stroke="none" x="579.0" y="342.0" font-size="20.0" font-family="helvetica">N. africana DSM 44491T ((30496183)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="586.0" cy="437.0" r="1.0"/>
+    <text stroke="none" x="586.0" y="437.0" font-size="20.0" font-family="helvetica">N. nova ATCC 33726T (GO496102)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="589.0" cy="36.0" r="1.0"/>
+    <text stroke="none" x="589.0" y="36.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="608.0" cy="12.0" r="1.0"/>
+    <text stroke="none" x="608.0" y="12.0" font-size="20.0" font-family="helvetica">N. kruczakiae DSM 44877T (AB450793)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="612.0" cy="106.0" r="1.0"/>
+    <text stroke="none" x="612.0" y="106.0" font-size="20.0" font-family="helvetica">N. cerradoensis DSM 44546T (GO496123)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="614.0" cy="59.0" r="1.0"/>
+    <text stroke="none" x="614.0" y="59.0" font-size="20.0" font-family="helvetica">N. aobensis JCM 12352T (GO496128)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="615.0" cy="579.0" r="1.0"/>
+    <text stroke="none" x="615.0" y="579.0" font-size="20.0" font-family="helvetica">N. wallaceiATCC 49873T (GO496086)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="623.0" cy="207.0" r="1.0"/>
+    <text stroke="none" x="623.0" y="207.0" font-size="20.0" font-family="helvetica">7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="624.0" cy="484.0" r="1.0"/>
+    <text stroke="none" x="624.0" y="484.0" font-size="20.0" font-family="helvetica">N. veterana DSM 44445T (GO496119)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="627.0" cy="260.0" r="1.0"/>
+    <text stroke="none" x="627.0" y="260.0" font-size="10.0" font-family="helvetica">NT1.21</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="628.0" cy="389.0" r="1.0"/>
+    <text stroke="none" x="628.0" y="389.0" font-size="20.0" font-family="helvetica">N. elegans JCM 13874T (GO496116)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="634.0" cy="225.0" r="1.0"/>
+    <text stroke="none" x="634.0" y="225.0" font-size="10.0" font-family="helvetica">NT1.23</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="637.0" cy="295.0" r="1.0"/>
+    <text stroke="none" x="637.0" y="295.0" font-size="20.0" font-family="helvetica">N. mikamii W781 1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="637.0" cy="200.0" r="1.0"/>
+    <text stroke="none" x="637.0" y="200.0" font-size="20.0" font-family="helvetica">N. mikamii W7467</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="646.0" cy="154.0" r="1.0"/>
+    <text stroke="none" x="646.0" y="154.0" font-size="20.0" font-family="helvetica">1N. mikamii W8061T (EU484382)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="657.0" cy="248.0" r="1.0"/>
+    <text stroke="none" x="657.0" y="248.0" font-size="20.0" font-family="helvetica">N. mikamiiWQO1‘3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="773.0" cy="626.0" r="1.0"/>
+    <text stroke="none" x="773.0" y="626.0" font-size="20.0" font-family="helvetica">N. vermiculata JCM 12354T (GO496087)</text>
+   </g>
+   <line stroke="black" x1="608.0" y1="12.0" x2="589.0" y2="36.0" stroke-width="0.5"/>
+   <line stroke="black" x1="612.0" y1="106.0" x2="514.0" y2="73.0" stroke-width="0.5"/>
+   <line stroke="black" x1="646.0" y1="154.0" x2="623.0" y2="207.0" stroke-width="0.5"/>
+   <line stroke="black" x1="637.0" y1="200.0" x2="634.0" y2="225.0" stroke-width="0.5"/>
+   <line stroke="black" x1="657.0" y1="248.0" x2="634.0" y2="225.0" stroke-width="0.5"/>
+   <line stroke="black" x1="579.0" y1="342.0" x2="487.0" y2="378.0" stroke-width="0.5"/>
+   <line stroke="black" x1="586.0" y1="437.0" x2="511.0" y2="412.0" stroke-width="0.5"/>
+   <line stroke="black" x1="628.0" y1="389.0" x2="511.0" y2="412.0" stroke-width="0.5"/>
+   <line stroke="black" x1="0.0" y1="544.0" x2="46.0" y2="544.0" stroke-width="0.5"/>
+   <line stroke="black" x1="573.0" y1="531.0" x2="422.0" y2="554.0" stroke-width="0.5"/>
+   <line stroke="black" x1="615.0" y1="579.0" x2="422.0" y2="554.0" stroke-width="0.5"/>
+   <line stroke="black" x1="773.0" y1="626.0" x2="46.0" y2="544.0" stroke-width="0.5"/>
+   <line stroke="black" x1="589.0" y1="36.0" x2="514.0" y2="73.0" stroke-width="0.5"/>
+   <line stroke="black" x1="514.0" y1="73.0" x2="456.0" y2="139.0" stroke-width="0.5"/>
+   <line stroke="black" x1="456.0" y1="139.0" x2="420.0" y2="260.0" stroke-width="0.5"/>
+   <line stroke="black" x1="456.0" y1="139.0" x2="623.0" y2="207.0" stroke-width="0.5"/>
+   <line stroke="black" x1="420.0" y1="260.0" x2="344.0" y2="372.0" stroke-width="0.5"/>
+   <line stroke="black" x1="420.0" y1="260.0" x2="487.0" y2="378.0" stroke-width="0.5"/>
+   <line stroke="black" x1="623.0" y1="207.0" x2="627.0" y2="260.0" stroke-width="0.5"/>
+   <line stroke="black" x1="627.0" y1="260.0" x2="634.0" y2="225.0" stroke-width="0.5"/>
+   <line stroke="black" x1="344.0" y1="372.0" x2="115.0" y2="465.0" stroke-width="0.5"/>
+   <line stroke="black" x1="487.0" y1="378.0" x2="511.0" y2="412.0" stroke-width="0.5"/>
+   <line stroke="black" x1="115.0" y1="465.0" x2="46.0" y2="544.0" stroke-width="0.5"/>
+   <line stroke="black" x1="115.0" y1="465.0" x2="422.0" y2="554.0" stroke-width="0.5"/>
+   <line stroke="black" x1="624.0" y1="484.0" x2="344.0" y2="372.0" stroke-width="0.5"/>
+   <line stroke="black" x1="614.0" y1="59.0" x2="589.0" y2="36.0" stroke-width="0.5"/>
+   <line stroke="black" x1="637.0" y1="295.0" x2="627.0" y2="260.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

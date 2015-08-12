@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Kineosporia rhamnosa |—132T (ABOO3935)</otu>
+  <otu id="otu2">Kineosporia mesophila YIM 65293T (FJ214362)</otu>
+  <otu id="otu3">Nneosporia mikuniensis NERO 1 6234T (AB3771 1 7)</otu>
+  <otu id="otu4">Kineosporia succinea l-273T (AB003932)</otu>
+  <otu id="otu5">Kineosporia babensis VN05AO415T (ABS771 16)</otu>
+  <otu id="otu6">Kineosporia aurantiaca JCM 3230T (AB003931)</otu>
+  <otu id="otu7">Kineosporia rhizoph/la |-449T (A8003933)</otu>
+  <otu id="otu8">Kineococcus aurantiacus NBRC 15268T (ABOO7420)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="192.0" y="244.0"/>
+   <node id="NT1.2" label="NT1.2" x="273.0" y="206.0"/>
+   <node id="NT1.3" label="NT1.3" x="284.0" y="168.0"/>
+   <node id="NT1.4" label="NT1.4" x="293.0" y="132.0"/>
+   <node id="NT1.5" label="NT1.5" x="316.0" y="98.0"/>
+   <node id="NT1.6" label="NT1.6" x="363.0" y="282.0" otu="otu1"/>
+   <node id="NT1.7" x="363.0" y="69.0" label="62"/>
+   <node id="NT1.8" label="NT1.8" x="385.0" y="243.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="419.0" y="127.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="434.0" y="166.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="487.0" y="49.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="505.0" y="204.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="565.0" y="88.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="566.0" y="321.0" otu="otu8"/>
+   <node id="NT1.15" label="NT1.15" x="5.0" y="282.0" root="true"/>
+   <edge source="NT1.7" target="NT1.11"/>
+   <edge source="NT1.5" target="NT1.9"/>
+   <edge source="NT1.7" target="NT1.13"/>
+   <edge source="NT1.4" target="NT1.10"/>
+   <edge source="NT1.2" target="NT1.8"/>
+   <edge source="NT1.1" target="NT1.6"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.15" target="NT1.14"/>
+   <edge source="NT1.15" target="NT1.1"/>
+   <edge source="NT1.3" target="NT1.12"/>
+  </tree>
+ </trees>
+</nexml>

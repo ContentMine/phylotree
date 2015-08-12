@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="33.0" cy="666.0" r="1.0"/>
+    <text stroke="none" x="33.0" y="666.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="346.0" cy="174.0" r="1.0"/>
+    <text stroke="none" x="346.0" y="174.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="445.0" cy="117.0" r="1.0"/>
+    <text stroke="none" x="445.0" y="117.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="451.0" cy="15.0" r="1.0"/>
+    <text stroke="none" x="451.0" y="15.0" font-size="20.0" font-family="helvetica">s. roseum DSM 43021T (X89947)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="453.0" cy="158.0" r="1.0"/>
+    <text stroke="none" x="453.0" y="158.0" font-size="20.0" font-family="helvetica">Strain HBUM 170018‘(AY996844)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="602.0" cy="205.0" r="1.0"/>
+    <text stroke="none" x="602.0" y="205.0" font-size="20.0" font-family="helvetica">s. purpuratum CY-1511OT(AF191735)</text>
+   </g>
+   <line stroke="black" x1="451.0" y1="15.0" x2="445.0" y2="117.0" stroke-width="0.5"/>
+   <line stroke="black" x1="453.0" y1="158.0" x2="445.0" y2="117.0" stroke-width="0.5"/>
+   <line stroke="black" x1="602.0" y1="205.0" x2="346.0" y2="174.0" stroke-width="0.5"/>
+   <line stroke="black" x1="33.0" y1="666.0" x2="346.0" y2="174.0" stroke-width="0.5"/>
+   <line stroke="black" x1="445.0" y1="117.0" x2="346.0" y2="174.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">C.jejuni subspjejuni CCUG 10937 (D0174141)</otu>
+  <otu id="otu3">C. cuniculorum 15GBT (D0400345)</otu>
+  <otu id="otu4">C. canadensis CCUG 54429T (EF621894)</otu>
+  <otu id="otu5">C. upsaliensis CCUG 14913T(D0174157)</otu>
+  <otu id="otu6">C. avium 24/06 (EU623474)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="1.0" y="740.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="60.0" y="621.0"/>
+   <node id="NT1.3" label="NT1.3" x="240.0" y="588.0"/>
+   <node id="NT1.4" x="286.0" y="636.0" label="97"/>
+   <node id="NT1.5" label="NT1.5" x="317.0" y="490.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="378.0" y="693.0"/>
+   <node id="NT1.7" label="NT1.7" x="387.0" y="609.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="407.0" y="788.0" otu="otu4"/>
+   <node id="NT1.9" label="NT1.9" x="448.0" y="668.0" otu="otu5"/>
+   <node id="NT1.10" label="NT1.10" x="524.0" y="698.0" otu="otu6"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.7"/>
+   <edge source="NT1.6" target="NT1.9"/>
+   <edge source="NT1.2" target="NT1.8"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.6" target="NT1.10"/>
+  </tree>
+ </trees>
+</nexml>

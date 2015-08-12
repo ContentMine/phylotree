@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="12.0" cy="532.0" r="1.0"/>
+    <text stroke="none" x="12.0" y="532.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="45.0" cy="703.0" r="1.0"/>
+    <text stroke="none" x="45.0" y="703.0" font-size="20.0" font-family="helvetica">5m</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="96.0" cy="287.0" r="1.0"/>
+    <text stroke="none" x="96.0" y="287.0" font-size="20.0" font-family="helvetica">m4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="190.0" cy="177.0" r="1.0"/>
+    <text stroke="none" x="190.0" y="177.0" font-size="20.0" font-family="helvetica">5%</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="219.0" cy="761.0" r="1.0"/>
+    <text stroke="none" x="219.0" y="761.0" font-size="20.0" font-family="helvetica">9%</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="295.0" cy="398.0" r="1.0"/>
+    <text stroke="none" x="295.0" y="398.0" font-size="20.0" font-family="helvetica">W2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="330.0" cy="454.0" r="1.0"/>
+    <text stroke="none" x="330.0" y="454.0" font-size="20.0" font-family="helvetica">%9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="376.0" cy="340.0" r="1.0"/>
+    <text stroke="none" x="376.0" y="340.0" font-size="20.0" font-family="helvetica">m8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="409.0" cy="787.0" r="1.0"/>
+    <text stroke="none" x="409.0" y="787.0" font-size="20.0" font-family="helvetica">P. macerans NCDO 1764T (X60624)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="484.0" cy="302.0" r="1.0"/>
+    <text stroke="none" x="484.0" y="302.0" font-size="20.0" font-family="helvetica">%5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="487.0" cy="532.0" r="1.0"/>
+    <text stroke="none" x="487.0" y="532.0" font-size="20.0" font-family="helvetica">P. cineris LMG 18439‘(AJ575658)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="509.0" cy="735.0" r="1.0"/>
+    <text stroke="none" x="509.0" y="735.0" font-size="20.0" font-family="helvetica">P. timonensis CIP 108005T (AY323610)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="564.0" cy="379.0" r="1.0"/>
+    <text stroke="none" x="564.0" y="379.0" font-size="20.0" font-family="helvetica">P. odorifer TO D45T (AJ 223990)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="606.0" cy="130.0" r="1.0"/>
+    <text stroke="none" x="606.0" y="130.0" font-size="10.0" font-family="helvetica">NT1.14</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="615.0" cy="480.0" r="1.0"/>
+    <text stroke="none" x="615.0" y="480.0" font-size="20.0" font-family="helvetica">P stelliler DSM 14472T (N316013)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="618.0" cy="647.0" r="1.0"/>
+    <text stroke="none" x="618.0" y="647.0" font-size="10.0" font-family="helvetica">NT1.16</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="629.0" cy="85.0" r="1.0"/>
+    <text stroke="none" x="629.0" y="85.0" font-size="20.0" font-family="helvetica">945</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="630.0" cy="124.0" r="1.0"/>
+    <text stroke="none" x="630.0" y="124.0" font-size="20.0" font-family="helvetica">P. macquariensis subsp. defensor M4-1 (A3360547)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="632.0" cy="46.0" r="1.0"/>
+    <text stroke="none" x="632.0" y="46.0" font-size="10.0" font-family="helvetica">NT1.19</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="636.0" cy="72.0" r="1.0"/>
+    <text stroke="none" x="636.0" y="72.0" font-size="20.0" font-family="helvetica">P. macquariensfs DSM 2T (ABO73193)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="642.0" cy="608.0" r="1.0"/>
+    <text stroke="none" x="642.0" y="608.0" font-size="20.0" font-family="helvetica">m7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="643.0" cy="22.0" r="1.0"/>
+    <text stroke="none" x="643.0" y="22.0" font-size="20.0" font-family="helvetica">P. macquariensis subsp. defensor M4-27 (A3360546)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="649.0" cy="174.0" r="1.0"/>
+    <text stroke="none" x="649.0" y="174.0" font-size="20.0" font-family="helvetica"> P. antarcticus LMG 22078T (N605292)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="700.0" cy="582.0" r="1.0"/>
+    <text stroke="none" x="700.0" y="582.0" font-size="20.0" font-family="helvetica"> P. thiaminelyticus DSM 7262T (AJ320490)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="703.0" cy="633.0" r="1.0"/>
+    <text stroke="none" x="703.0" y="633.0" font-size="20.0" font-family="helvetica"> P. popilliae ATCC 14706T(AF071859)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="722.0" cy="684.0" r="1.0"/>
+    <text stroke="none" x="722.0" y="684.0" font-size="20.0" font-family="helvetica">P. dendritiformis CIP 105967T (AY359885)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="745.0" cy="428.0" r="1.0"/>
+    <text stroke="none" x="745.0" y="428.0" font-size="20.0" font-family="helvetica">‘P. abekawaensis' MG1 (AB119649)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="767.0" cy="327.0" r="1.0"/>
+    <text stroke="none" x="767.0" y="327.0" font-size="20.0" font-family="helvetica">‘P. donghaensis’ JH8 (EFO79062)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="772.0" cy="225.0" r="1.0"/>
+    <text stroke="none" x="772.0" y="225.0" font-size="20.0" font-family="helvetica">P. nematophilus DSM 13559T (AF480935)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="793.0" cy="277.0" r="1.0"/>
+    <text stroke="none" x="793.0" y="277.0" font-size="20.0" font-family="helvetica">P. Wynnii LMG 221 7eT (AJ633647)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="11.0" cy="409.0" r="1.0"/>
+    <text stroke="none" x="11.0" y="409.0" font-size="10.0" font-family="helvetica">NT1.31</text>
+   </g>
+   <line stroke="black" x1="643.0" y1="22.0" x2="632.0" y2="46.0" stroke-width="0.5"/>
+   <line stroke="black" x1="636.0" y1="72.0" x2="632.0" y2="46.0" stroke-width="0.5"/>
+   <line stroke="black" x1="630.0" y1="124.0" x2="629.0" y2="85.0" stroke-width="0.5"/>
+   <line stroke="black" x1="649.0" y1="174.0" x2="606.0" y2="130.0" stroke-width="0.5"/>
+   <line stroke="black" x1="772.0" y1="225.0" x2="190.0" y2="177.0" stroke-width="0.5"/>
+   <line stroke="black" x1="564.0" y1="379.0" x2="376.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="615.0" y1="480.0" x2="330.0" y2="454.0" stroke-width="0.5"/>
+   <line stroke="black" x1="487.0" y1="532.0" x2="12.0" y2="532.0" stroke-width="0.5"/>
+   <line stroke="black" x1="745.0" y1="428.0" x2="330.0" y2="454.0" stroke-width="0.5"/>
+   <line stroke="black" x1="767.0" y1="327.0" x2="484.0" y2="302.0" stroke-width="0.5"/>
+   <line stroke="black" x1="793.0" y1="277.0" x2="484.0" y2="302.0" stroke-width="0.5"/>
+   <line stroke="black" x1="409.0" y1="787.0" x2="219.0" y2="761.0" stroke-width="0.5"/>
+   <line stroke="black" x1="509.0" y1="735.0" x2="219.0" y2="761.0" stroke-width="0.5"/>
+   <line stroke="black" x1="722.0" y1="684.0" x2="618.0" y2="647.0" stroke-width="0.5"/>
+   <line stroke="black" x1="700.0" y1="582.0" x2="642.0" y2="608.0" stroke-width="0.5"/>
+   <line stroke="black" x1="703.0" y1="633.0" x2="642.0" y2="608.0" stroke-width="0.5"/>
+   <line stroke="black" x1="632.0" y1="46.0" x2="629.0" y2="85.0" stroke-width="0.5"/>
+   <line stroke="black" x1="629.0" y1="85.0" x2="606.0" y2="130.0" stroke-width="0.5"/>
+   <line stroke="black" x1="606.0" y1="130.0" x2="190.0" y2="177.0" stroke-width="0.5"/>
+   <line stroke="black" x1="190.0" y1="177.0" x2="96.0" y2="287.0" stroke-width="0.5"/>
+   <line stroke="black" x1="96.0" y1="287.0" x2="295.0" y2="398.0" stroke-width="0.5"/>
+   <line stroke="black" x1="295.0" y1="398.0" x2="330.0" y2="454.0" stroke-width="0.5"/>
+   <line stroke="black" x1="295.0" y1="398.0" x2="376.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="12.0" y1="532.0" x2="45.0" y2="703.0" stroke-width="0.5"/>
+   <line stroke="black" x1="376.0" y1="340.0" x2="484.0" y2="302.0" stroke-width="0.5"/>
+   <line stroke="black" x1="45.0" y1="703.0" x2="219.0" y2="761.0" stroke-width="0.5"/>
+   <line stroke="black" x1="45.0" y1="703.0" x2="618.0" y2="647.0" stroke-width="0.5"/>
+   <line stroke="black" x1="618.0" y1="647.0" x2="642.0" y2="608.0" stroke-width="0.5"/>
+   <line stroke="black" x1="11.0" y1="409.0" x2="96.0" y2="287.0" stroke-width="0.5"/>
+   <line stroke="black" x1="11.0" y1="409.0" x2="12.0" y2="532.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

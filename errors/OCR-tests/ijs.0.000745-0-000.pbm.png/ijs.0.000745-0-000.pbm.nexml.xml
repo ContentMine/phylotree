@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">RubrivivaxgelatinosusATCC17011T(D16213)</otu>
+  <otu id="otu3">Ideonella dech/oratans CCUG 30898T(X72724)</otu>
+  <otu id="otu4">Leptothrix discophora ATCC 43182T (L33975)</otu>
+  <otu id="otu5">Azohydromonas australica DSM 1124T (AB188124)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="0.0" y="567.0" otu="otu1" root="true"/>
+   <node id="NT1.2" x="265.0" y="353.0" label="99"/>
+   <node id="NT1.3" label="NT1.3" x="336.0" y="340.0"/>
+   <node id="NT1.4" x="369.0" y="371.0" label="59"/>
+   <node id="NT1.5" label="NT1.5" x="483.0" y="393.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="493.0" y="350.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="549.0" y="308.0" otu="otu4"/>
+   <node id="NT1.8" label="NT1.8" x="572.0" y="434.0" otu="otu5"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.4" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.7"/>
+   <edge source="NT1.2" target="NT1.8"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.4"/>
+  </tree>
+ </trees>
+</nexml>

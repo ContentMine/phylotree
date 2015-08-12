@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="52.0" cy="200.0" r="1.0"/>
+    <text stroke="none" x="52.0" y="200.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="81.0" cy="200.0" r="1.0"/>
+    <text stroke="none" x="81.0" y="200.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="176.0" cy="149.0" r="1.0"/>
+    <text stroke="none" x="176.0" y="149.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="191.0" cy="103.0" r="1.0"/>
+    <text stroke="none" x="191.0" y="103.0" font-size="20.0" font-family="helvetica">65</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="212.0" cy="62.0" r="1.0"/>
+    <text stroke="none" x="212.0" y="62.0" font-size="20.0" font-family="helvetica">92</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="237.0" cy="33.0" r="1.0"/>
+    <text stroke="none" x="237.0" y="33.0" font-size="20.0" font-family="helvetica">Candida materiae UFMG-07-C15.1BT(FJ154790)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="237.0" cy="143.0" r="1.0"/>
+    <text stroke="none" x="237.0" y="143.0" font-size="20.0" font-family="helvetica">Spathaspora passalidarum NRRL Y-279O7T (D0109807)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="242.0" cy="88.0" r="1.0"/>
+    <text stroke="none" x="242.0" y="88.0" font-size="20.0" font-family="helvetica">Candida jeffriesii NRRL Y-27738T (AY520415)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="245.0" cy="252.0" r="1.0"/>
+    <text stroke="none" x="245.0" y="252.0" font-size="20.0" font-family="helvetica">Candida insectamans NRRL Y-7786T</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="258.0" cy="197.0" r="1.0"/>
+    <text stroke="none" x="258.0" y="197.0" font-size="20.0" font-family="helvetica">Candida lyxosophila</text>
+   </g>
+   <line stroke="black" x1="52.0" y1="200.0" x2="81.0" y2="200.0" stroke-width="0.5"/>
+   <line stroke="black" x1="212.0" y1="62.0" x2="191.0" y2="103.0" stroke-width="0.5"/>
+   <line stroke="black" x1="191.0" y1="103.0" x2="176.0" y2="149.0" stroke-width="0.5"/>
+   <line stroke="black" x1="176.0" y1="149.0" x2="81.0" y2="200.0" stroke-width="0.5"/>
+   <line stroke="black" x1="245.0" y1="252.0" x2="81.0" y2="200.0" stroke-width="0.5"/>
+   <line stroke="black" x1="237.0" y1="143.0" x2="191.0" y2="103.0" stroke-width="0.5"/>
+   <line stroke="black" x1="258.0" y1="197.0" x2="176.0" y2="149.0" stroke-width="0.5"/>
+   <line stroke="black" x1="237.0" y1="33.0" x2="212.0" y2="62.0" stroke-width="0.5"/>
+   <line stroke="black" x1="242.0" y1="88.0" x2="212.0" y2="62.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>
