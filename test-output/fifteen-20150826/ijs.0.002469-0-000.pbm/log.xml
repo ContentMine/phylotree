@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:58:13.724+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="6576"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Paucisalibacillus globulus B227 (AM1 141 02)]" millis="6576"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="6576"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Virgibacillus halodenitrificans ATCC 490677 (AB021 186)]" millis="6577"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Virgibacillus dokdonensis DSW-1O7(AY822O43)]" millis="6577"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Halobacillus Iitoralis SL-47 (X94558)]" millis="6579"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Halobacillus Iocisalis MSS-1557 (AY190534)]" millis="6579"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="6580"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Geabacillus stearothermophilus NBRC 125507(AB271757)]" millis="6580"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.28" millis="6582"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.31" millis="6582"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.32" millis="6582"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.34" millis="6583"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.38" millis="6583"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.44" millis="6584"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.45" millis="6584"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.51" millis="6585"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.54" millis="6585"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="6589"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.002469-0-000.pbm/results/phylotree/001.nexml.xml" millis="6590"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.002469-0-000.pbm/results/phylotree/001.nwk" millis="6594"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.002469-0-000.pbm/results/phylotree/001.hocr.svg" millis="6600"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.002469-0-000.pbm/results/phylotree/001.svg" millis="6606"/>
+</log>

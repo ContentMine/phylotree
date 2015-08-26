@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:57:39.578+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. plecoglossicida FPC 951T (AB009457)]" millis="2958"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. stutzeri IAM 126687 (D84024)]" millis="2958"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. putida DSM 291T (Z76667)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. Iuteola IAM 13O00T (D84002)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. pachastrellae KMM 330T (AB125366)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. pohangensis H3-R187 (DQ339144)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Strain S3-3T (EU286805)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. nitroreducens IAM 1439T (D84021)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. aeruginosa LMG 12427 (Z76651)]" millis="2959"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. syringae LMG 1247T (276669)]" millis="2960"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. chlororaphis IAM 12354T (D84011)]" millis="2960"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [PP. denitrificansP IAM 12023 (AB021419)]" millis="2960"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. fluorescens DSM 50O9OT (Z76662)]" millis="2960"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [P. pertucinogena IFO 141637 (AB021380)]" millis="2960"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.11" millis="2961"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.12" millis="2961"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.13" millis="2961"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.14" millis="2962"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.16" millis="2962"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.17" millis="2962"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.18" millis="2962"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.21" millis="2963"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.22" millis="2963"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.23" millis="2963"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.24" millis="2963"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.25" millis="2963"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.26" millis="2964"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.27" millis="2964"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.28" millis="2964"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="2966"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.001420-0-000.pbm/results/phylotree/001.nexml.xml" millis="2966"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.001420-0-000.pbm/results/phylotree/001.nwk" millis="2967"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.001420-0-000.pbm/results/phylotree/001.hocr.svg" millis="2972"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.001420-0-000.pbm/results/phylotree/001.svg" millis="2977"/>
+</log>

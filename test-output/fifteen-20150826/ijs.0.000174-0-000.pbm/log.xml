@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:57:20.599+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="2767"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Rhadaplanes elegans AS130T (D2531 1)]" millis="2768"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [(Rhodoplanes cryptolactif]" millis="2768"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Strain TUT3530T (AB087717)]" millis="2768"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [(Rhodoplanes cryptolactif]" millis="2768"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Rhodapseudomonas palustris ATCC 17001T(D25312)]" millis="2768"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Blastochlaris viridis ATCC 19567T(D25314)]" millis="2769"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.1[NT1.2 ]" millis="2770"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.8" millis="2771"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.9" millis="2771"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.11" millis="2771"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.12" millis="2771"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.13" millis="2771"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.17" millis="2772"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="2776"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.000174-0-000.pbm/results/phylotree/001.nexml.xml" millis="2777"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.000174-0-000.pbm/results/phylotree/001.nwk" millis="2780"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.000174-0-000.pbm/results/phylotree/001.hocr.svg" millis="2783"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.000174-0-000.pbm/results/phylotree/001.svg" millis="2788"/>
+</log>

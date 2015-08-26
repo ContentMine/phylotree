@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:58:06.716+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Adhaeribacter aquaticus MBRG1.5T(A.J626894)]" millis="6943"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="6943"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Hymenobacter actinosclerus CCUG 39621T(Y17356)]" millis="6945"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Hymenobacter riguiWPCB131T (DQ089669)]" millis="6945"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Hymenobacter norwichensis NSISOT (AJ 549285)]" millis="6945"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Dyadobacter fermentans NS114T(AF137O29)]" millis="6946"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Hymenobacter gelipurpurascens Txg1T(Y18836)]" millis="6946"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Cytophaga hutchinsonii DSM 1761 T (D12663)]" millis="6946"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Hymenobacter roseosalivarius AA-718T(Y18833)]" millis="6947"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.19" millis="6948"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.21" millis="6949"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.31" millis="6949"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.32" millis="6949"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.33" millis="6950"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.34" millis="6950"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.36" millis="6950"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.37" millis="6951"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.41" millis="6951"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="6955"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.002444-0-000.pbm/results/phylotree/001.nexml.xml" millis="6956"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.002444-0-000.pbm/results/phylotree/001.nwk" millis="6959"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.002444-0-000.pbm/results/phylotree/001.hocr.svg" millis="6965"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.002444-0-000.pbm/results/phylotree/001.svg" millis="6970"/>
+</log>

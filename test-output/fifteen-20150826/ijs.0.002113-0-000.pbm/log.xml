@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:57:53.242+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Oceanospirillum linum ATCC 1 1336T (M22365)]" millis="5120"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Neptuniibacter caesariensis MED92T (AY1361 16)]" millis="5121"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Thalassolituus oleivorans M L-1 T (AJ431699)]" millis="5121"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Oceanospirlllum" millis="5123"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Oceanospirillum maris" millis="5335"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Saccharospirillum Impatiens EL-105T (AJ315983)]" millis="5335"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Marinomonas medite-rranea MMB-17 (AFO63027)]" millis="5335"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Kanglella" millis="5338"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.21" millis="5492"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.23" millis="5492"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.26" millis="5492"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.34" millis="5492"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.35" millis="5492"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="5495"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.002113-0-000.pbm/results/phylotree/001.nexml.xml" millis="5495"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.002113-0-000.pbm/results/phylotree/001.nwk" millis="5497"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.002113-0-000.pbm/results/phylotree/001.hocr.svg" millis="5503"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.002113-0-000.pbm/results/phylotree/001.svg" millis="5509"/>
+</log>

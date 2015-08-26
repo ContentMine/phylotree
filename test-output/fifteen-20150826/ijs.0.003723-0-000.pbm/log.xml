@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:58:30.295+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Saccharothrix Iongispora NRRL B-16116T (AF1 14809)]" millis="3172"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Sacoharothrix" millis="3172"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Saccharothrix xinjiangensis" millis="3415"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="3416"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Actinosynnema mirum NBRC 14O64T(D85475)]" millis="3416"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [ Saccharothrix mutabilis subsp. mutabilis DSM 43853T (X76966)]" millis="3417"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="3417"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Sacoharothrix" millis="3417"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Saccharothrix algeriensis" millis="3659"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Saccharothrix mutabilis subsp. capreolus DSM 40225T (X76965)]" millis="3660"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="3660"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.2" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.12" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.14" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.17" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.18" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.20" millis="3661"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.22" millis="3662"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="3664"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.003723-0-000.pbm/results/phylotree/001.nexml.xml" millis="3665"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.003723-0-000.pbm/results/phylotree/001.nwk" millis="3666"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.003723-0-000.pbm/results/phylotree/001.hocr.svg" millis="3670"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.003723-0-000.pbm/results/phylotree/001.svg" millis="3675"/>
+</log>

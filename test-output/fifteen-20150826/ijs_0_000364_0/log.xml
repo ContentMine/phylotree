@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:58:42.896+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Lactoba]" millis="8273"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Desulfo]" millis="8273"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Proprinogenum" millis="8274"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Propionigenium modestum" millis="8514"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Thermotoga maritima" millis="8516"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [lsynechococcus elongatusl PCC 6301 (NC_0O6576)]" millis="8516"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX []" millis="8517"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Optiutus" millis="8519"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Opitutus terrae" millis="8645"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [tAquifex aeolicusl VF5 (NC_000918)]" millis="8646"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.30" millis="8648"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.31" millis="8648"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.38" millis="8648"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.43" millis="8649"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.56" millis="8649"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="8672"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs_0_000364_0/results/phylotree/001.nexml.xml" millis="8673"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs_0_000364_0/results/phylotree/001.hocr.svg" millis="8680"/>
+</log>

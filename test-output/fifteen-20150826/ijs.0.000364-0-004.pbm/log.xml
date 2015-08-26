@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log date="2015-08-26T12:57:23.434+01:00">
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Desulfovibrio desuifuricans]" millis="6460"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [aquifex aeolicusi VF5 (AACO7677)]" millis="6460"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="invalid genus, looking for closest match: Synechocoocus" millis="6461"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Synechococcus elongatus" millis="6688"/>
+ <warn method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="corrected to: Thermotoga maritima" millis="6689"/>
+ <error method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.processOtu" message="ERR_BAD_SYNTAX [Bifidobacterium Iongum NCC2705 (AAN25218)]" millis="6693"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.26" millis="6696"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.27" millis="6696"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.pruneBadTips" message="deleted node NT1.43" millis="6697"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.createTree" message="Analyzed pixels for tree successfully" millis="6702"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNexml" message="wrote NEXML: target/phylo/ijs.0.000364-0-004.pbm/results/phylotree/001.nexml.xml" millis="6703"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputNewick" message="wrote Newick: target/phylo/ijs.0.000364-0-004.pbm/results/phylotree/001.nwk" millis="6707"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputHocrSvg" message="wrote HOCSVG: target/phylo/ijs.0.000364-0-004.pbm/results/phylotree/001.hocr.svg" millis="6713"/>
+ <info method="org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor.outputSvg" message="wrote HOCSVG: target/phylo/ijs.0.000364-0-004.pbm/results/phylotree/001.svg" millis="6719"/>
+</log>
